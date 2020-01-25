@@ -5,47 +5,54 @@
 
 packages:
 - completed:
-    hackage: freetype2-0.1.1@sha256:9f689d592e969bffb86a93b3db6e04ffc51a56aa36d5ae9cca13244ad350a546,10906
+    size: 2951795
+    url: https://github.com/waddlaw/free-game/archive/19fb5d7cba26b8d67adaa4de46833e8b00ae0793.tar.gz
+    cabal-file:
+      size: 2262
+      sha256: c7542a5f0611c8efc6aeafcfc57967a30c39c17a4d8e1feb0eddb0b23ddf90e7
+    name: free-game
+    version: 1.1.90
+    sha256: 2e33f60d14df4b820cdb64838513bfc3223200ea0d28a405a36c8e4d7be826ca
     pantry-tree:
-      size: 26034
-      sha256: fa38f3aed7e76416e9540a7d39097049998c8b1a0d530d7ff13ca59e9a8815f7
+      size: 1590
+      sha256: 4d276901f721457ad683f552286c0eceee98e62e6416788fe970c0889d99e4f8
   original:
-    hackage: freetype2-0.1.1
-- completed:
-    hackage: colors-0.3.0.2@sha256:b49946d81e0089d4d80191523839f934802975ede3b9fd9521ead9e591142560,764
-    pantry-tree:
-      size: 323
-      sha256: 78fabce342368b8c7ff1d8e6227581f01182ead312ecea75913cb4ecb07f3b26
-  original:
-    hackage: colors-0.3.0.2
+    url: https://github.com/waddlaw/free-game/archive/19fb5d7cba26b8d67adaa4de46833e8b00ae0793.tar.gz
 - completed:
     hackage: JuicyPixels-util-0.2@sha256:54df721dc1194e3f1934a7696274e12479851d26bd440e92fce58af5c11b7fa9,929
     pantry-tree:
       size: 222
       sha256: 0af4c927713168e03735d75e9b68fec8657bc5478b4fa1d294da9e4d463e044c
   original:
-    hackage: JuicyPixels-util-0.2
+    hackage: JuicyPixels-util-0.2@sha256:54df721dc1194e3f1934a7696274e12479851d26bd440e92fce58af5c11b7fa9,929
 - completed:
-    hackage: free-game-1.1.90@sha256:7081686479dc3328fa07f3f65c08cb844f872bff3fbdc975b122fd15eb194703,1969
+    hackage: colors-0.3.0.2@sha256:b49946d81e0089d4d80191523839f934802975ede3b9fd9521ead9e591142560,764
     pantry-tree:
-      size: 1366
-      sha256: faaadc9a658f04b52aa0836e97ac96f41d517ac710d4bc66ae00a33933f77c09
+      size: 323
+      sha256: 78fabce342368b8c7ff1d8e6227581f01182ead312ecea75913cb4ecb07f3b26
   original:
-    hackage: free-game-1.1.90
+    hackage: colors-0.3.0.2@sha256:b49946d81e0089d4d80191523839f934802975ede3b9fd9521ead9e591142560,764
 - completed:
-    hackage: Cabal-3.0.0.0@sha256:1ba37b8d80e89213b17db7b8b9ea0108da55ca65f8c0cbb7433881a284c5cf67,26027
+    hackage: containers-0.6.2.1@sha256:bbc3d2d5eef59a5d26383fb4b727c968390f2b6e9bd413d29aa875175bb16f8b,2460
     pantry-tree:
-      size: 71616
-      sha256: 4f16f0a65304ab22f01cb7f6d25db2f15a168f4cefacde7864cb1e02eb3ea867
+      size: 2823
+      sha256: 5bb0af2da4e4cc5472a17063ecdbda8f1117e5f3509fcd600f2cbd7e2b760f49
   original:
-    hackage: Cabal-3.0.0.0@sha256:1ba37b8d80e89213b17db7b8b9ea0108da55ca65f8c0cbb7433881a284c5cf67,26027
+    hackage: containers-0.6.2.1@sha256:bbc3d2d5eef59a5d26383fb4b727c968390f2b6e9bd413d29aa875175bb16f8b,2460
 - completed:
-    hackage: parsec-3.1.14.0@sha256:9f35f3a6ae66c6e1c22a1b84e62731f1501057791ffb2554f710aa08c7a4d651,4211
+    hackage: lens-4.18.1@sha256:5c21912d5af370ae608a7e010c8a705e987e42e89bbed306de73f87166251c27,15419
     pantry-tree:
-      size: 2574
-      sha256: c3bb3df367c625daf464cb8b2393001890311d395213620b977a811ba22d3a26
+      size: 8253
+      sha256: fa3064a40ece524cbb8af7d22caf3f9c662a1d9fb0cc860726658fc6625b452c
   original:
-    hackage: parsec-3.1.14.0@sha256:9f35f3a6ae66c6e1c22a1b84e62731f1501057791ffb2554f710aa08c7a4d651,4211
+    hackage: lens-4.18.1@sha256:5c21912d5af370ae608a7e010c8a705e987e42e89bbed306de73f87166251c27,15419
+- completed:
+    hackage: binary-0.8.8.0@sha256:e9387a7ef2b34c6a23b09664c306e37cc01ae2cb4e4511a1c96ffb14008c24b0,6262
+    pantry-tree:
+      size: 1976
+      sha256: 271cd1e75af293fc25a489d860f094dc635a4ed8b56aa5b343c58f4637736ca3
+  original:
+    hackage: binary-0.8.8.0@sha256:e9387a7ef2b34c6a23b09664c306e37cc01ae2cb4e4511a1c96ffb14008c24b0,6262
 - completed:
     hackage: text-1.2.4.0@sha256:8c24450feb8e3bbb7ea3e17af24ef57e85db077c4bf53e5bcc345b283d1b1d5b,10081
     pantry-tree:
@@ -53,9 +60,16 @@ packages:
       sha256: 3437b0a73ce2ae1a81aa8b3438d41a85981c00894cdbee0d6d6d6873046a5d5d
   original:
     hackage: text-1.2.4.0@sha256:8c24450feb8e3bbb7ea3e17af24ef57e85db077c4bf53e5bcc345b283d1b1d5b,10081
+- completed:
+    hackage: type-equality-1@sha256:aeb9c44abf5d2edf52caff114a7da565d8328fa84bbe194828e4355ea85bf5b3,1457
+    pantry-tree:
+      size: 313
+      sha256: 00d4fb756b387d6d7663ccdaae7b61234d4c9c6c5792427133f7686461fb844d
+  original:
+    hackage: type-equality-1@sha256:aeb9c44abf5d2edf52caff114a7da565d8328fa84bbe194828e4355ea85bf5b3,1457
 snapshots:
 - completed:
-    size: 423183
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/7/14.yaml
-    sha256: c13093dadf5d8b43c919d4ff9fc0b2d84950b42d0387a332432bdde92c8cfbd4
-  original: lts-7.14
+    size: 524162
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/14/21.yaml
+    sha256: 9a55dd75853718f2bbbe951872b36a3b7802fcd71796e0f25b8664f24e34c666
+  original: lts-14.21

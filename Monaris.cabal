@@ -23,11 +23,11 @@ executable Monaris
   -- other-modules:
   ghc-options:   -O2 -Wall
   build-depends:
-    , array
-    , base
-    , containers
-    , directory
-    , free
+    , array       ^>=0.5
+    , base        ^>=4.12
+    , containers  ^>=0.6.2
+    , directory   ^>=1.3
+    , free        ^>=5.1
     , free-game
-    , lens
-    , mtl
+    , lens        ^>=4.18
+    , mtl         ^>=2.2

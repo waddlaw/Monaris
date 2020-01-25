@@ -1,0 +1,7 @@
+packages:
+  ./
+
+source-repository-package
+  type:     git
+  location: https://github.com/waddlaw/free-game
+  tag:      19fb5d7cba26b8d67adaa4de46833e8b00ae0793
