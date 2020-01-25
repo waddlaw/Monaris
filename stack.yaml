@@ -1,0 +1,12 @@
+resolver: lts-7.14
+packages:
+- .
+
+extra-deps:
+- freetype2-0.1.1
+- colors-0.3.0.2
+- JuicyPixels-util-0.2
+- free-game-1.1.90
+- Cabal-3.0.0.0@sha256:1ba37b8d80e89213b17db7b8b9ea0108da55ca65f8c0cbb7433881a284c5cf67,26027
+- parsec-3.1.14.0@sha256:9f35f3a6ae66c6e1c22a1b84e62731f1501057791ffb2554f710aa08c7a4d651,4211
+- text-1.2.4.0@sha256:8c24450feb8e3bbb7ea3e17af24ef57e85db077c4bf53e5bcc345b283d1b1d5b,10081
